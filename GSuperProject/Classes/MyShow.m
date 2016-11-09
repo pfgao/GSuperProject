@@ -10,4 +10,9 @@
 
 @implementation MyShow
 
+- (void)showLog
+{
+    NSLog(@"我是一个静态库");
+}
+
 @end

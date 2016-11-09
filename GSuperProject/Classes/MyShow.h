@@ -10,4 +10,6 @@
 
 @interface MyShow : NSObject
 
+- (void)showLog;
+
 @end
