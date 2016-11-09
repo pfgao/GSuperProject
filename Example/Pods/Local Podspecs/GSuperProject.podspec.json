@@ -1,6 +1,6 @@
 {
   "name": "GSuperProject",
-  "version": "0.1.0",
+  "version": "0.1.001",
   "summary": "a project with base",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/pfgao/GSuperProject",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/pfgao/GSuperProject.git",
-    "tag": "0.1.0"
+    "tag": "0.1.001"
   },
   "platforms": {
     "ios": "8.0"
