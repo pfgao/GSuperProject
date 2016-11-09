@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "MyShow.h"
 
 FOUNDATION_EXPORT double GSuperProjectVersionNumber;
 FOUNDATION_EXPORT const unsigned char GSuperProjectVersionString[];
