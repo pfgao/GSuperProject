@@ -1,0 +1,6 @@
+use_frameworks!
+target 'GSuperProject_Tests' do
+  pod 'GSuperProject', :path => '../'
+  
+  
+end
